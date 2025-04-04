@@ -1,6 +1,6 @@
 # jpa02-evaniacheng
 
-Repo: https://github.com/ucsb-cs156-s25/jpa01-evaniacheng
+Repo: https://github.com/ucsb-cs156-s25/jpa02-evaniacheng
 
 Deployed at: https://jpa02-evaniacheng.dokku-02.cs.ucsb.edu/
 
