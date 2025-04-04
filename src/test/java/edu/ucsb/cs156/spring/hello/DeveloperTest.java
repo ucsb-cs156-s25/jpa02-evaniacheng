@@ -37,13 +37,13 @@ public class DeveloperTest {
     }
     
     @Test
-    public void getTeam_returns_team_with_Amey() {
+    public void getTeam_returns_team_with_Jiahua() {
         Team  t = Developer.getTeam();
         assertTrue(t.getMembers().contains("Jiahua R."),"Team should contain Jiahua R.");
     }
 
     @Test
-    public void getTeam_returns_team_with_Grace() {
+    public void getTeam_returns_team_with_Ayala() {
         Team  t = Developer.getTeam();
         assertTrue(t.getMembers().contains("Ayala W."),"Team should contain Ayala W.");
     }
